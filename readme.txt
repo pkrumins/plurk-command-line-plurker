@@ -5,6 +5,8 @@ His blog is at http://www.catonmat.net  --  good coders code, great reuse.
 
 The code is licensed under the GPL license.
 
+Meet Peteris on Plurk: http://www.plurk.com/pkrumins
+
 ------------------------------------------------------------------------------
 
 How to use this program.
